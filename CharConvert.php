@@ -1,6 +1,6 @@
 <?php
 
-namespace virnek\charconvert;
+namespace VirnekCorp\charconvert;
 
  class CharConvert
 {
